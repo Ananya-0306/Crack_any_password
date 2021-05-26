@@ -2,7 +2,7 @@
 from random import *
 
 # taking input from user
-user_pass = input("Enter your password")
+user_pass = input("Enter your password:")
 
 # storing alphabet letter to use thm to crack password
 password = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j','k', 
